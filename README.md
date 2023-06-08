@@ -2,6 +2,8 @@ Projeto que lista e permite ao usuario criar uma agenda online<br>
 
 Este projeto utiliza ReactJs no Frontend e Django, framework de Python no Backend<br>
 
+Link do repositorio frontend: https://github.com/Mauricio8583/myNotesAppFront<br>
+
 Dia 1:<br>
     No arquivo settings.py, dentro da pasta myNotesApp, foi configurado dentro de Installed_apps o uso do ApiConfig, que está dentro do arquivo apps.py da pasta api, para que as rotas criadas em api possam ser utilizadas em myNotesApp<br>
     Criação do ambiente virtual env, sugerido para cada projeto com Django <br>
@@ -14,3 +16,8 @@ Dia 2:<br>
     Criada as rotas getNotes e getNote que irão mostar os dados inseridos no model<br>
     Criado o superuser na parte admin do django, adaptando a parte admin para o que está inserido na tabela Note aparecer<br>
     Criado o arquivo serializers.py que irá informar como e quais dados de Notes irão aparecer na view<br>
+
+Dia 3:<br>
+    Criado o FrontEnd com ReactJs<br>
+    Adaptando o FrontEnd para receber os dados de getNotes e getNote da API criada com Django<br>
+    Estilização será feita com Styled-Components<br>
