@@ -21,3 +21,8 @@ Dia 3:<br>
     Criado o FrontEnd com ReactJs<br>
     Adaptando o FrontEnd para receber os dados de getNotes e getNote da API criada com Django<br>
     Estilização será feita com Styled-Components<br>
+
+Dia 4:<br>
+    Configurando o CORS para aceitar requisições de fora do servidor, utilizando django-cors-headers<br>
+    Criando as páginas que mostram uma única nota<br>
+    Utilizando React-Router-Dom para fazer a navegação entre as páginas<br>
