@@ -26,3 +26,8 @@ Dia 4:<br>
     Configurando o CORS para aceitar requisições de fora do servidor, utilizando django-cors-headers<br>
     Criando as páginas que mostram uma única nota<br>
     Utilizando React-Router-Dom para fazer a navegação entre as páginas<br>
+
+Dia 5:<br>
+    Fazendo a aplicação retornar a nota de acordo com o ID enviado por parâmetro<br>
+    Criando os primeiros links de navegação com react-router-dom<br>
+    Começando a criar a estilização da página<br>
