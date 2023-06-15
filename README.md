@@ -31,3 +31,6 @@ Dia 5:<br>
     Fazendo a aplicação retornar a nota de acordo com o ID enviado por parâmetro<br>
     Criando os primeiros links de navegação com react-router-dom<br>
     Começando a criar a estilização da página<br>
+
+Dia 6:<br>
+    Finalizando a estilização das páginas inicial e da nota<br>    
