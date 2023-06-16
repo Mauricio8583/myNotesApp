@@ -33,4 +33,7 @@ Dia 5:<br>
     Começando a criar a estilização da página<br>
 
 Dia 6:<br>
-    Finalizando a estilização das páginas inicial e da nota<br>    
+    Finalizando a estilização das páginas inicial e da nota<br>
+
+Dia 7:<br>
+    Criando as rotas de atualizar e excluir nota<br>    
