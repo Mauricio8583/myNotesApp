@@ -37,3 +37,8 @@ Dia 6:<br>
 
 Dia 7:<br>
     Criando as rotas de atualizar e excluir nota<br>    
+
+Dia 8:<br>
+    Criando a rota para criar nova tarefa<br>
+    Neste dia tive a dificuldade com o erro 405 Method not allowed, que estava aparecendo na hora de criar nova tarefa<br>
+    e por consequencia, não estava criando, resolvi esse erro após inserir / na url de rota notes/create/<br>
